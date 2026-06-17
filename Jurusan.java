@@ -1,0 +1,4 @@
+enum Jurusan {
+    IF,
+    SI
+}
